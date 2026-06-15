@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import { Keyboard, ShieldCheck, ShieldAlert, XCircle, RefreshCw, CheckCircle, Clock, Home, ArrowLeft } from 'lucide-react';
+import { Keyboard, ShieldCheck, ShieldAlert, XCircle, RefreshCw, CheckCircle, Clock, Home } from 'lucide-react';
 import { Html5QrcodeScanner } from 'html5-qrcode';
 import axios from 'axios';
 import { clsx, type ClassValue } from 'clsx';
